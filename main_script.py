@@ -5,7 +5,7 @@ Created on Tue Feb 11 14:57:18 2020
 @author: Xavier Bouteiller
 @email: bouteiller.xavier@gmail.com
 
-This program contains 4 main steps:
+This program contains 5 main steps:
     1. download .gz .gz.tbi .md5 files from the http://www.nlgenome.nl/ for a specific chromosome defined by the user    
     2. load & extract values from vcf
     3. instantiate a sqllite db
